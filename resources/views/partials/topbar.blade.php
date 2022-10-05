@@ -3,7 +3,7 @@
         <div class="topbar__row">
             <div class="topbar__item topbar__item--link mr-2">
                 <img style="height: 35px;" class="img-responsive " src="https://www.himelshop.com/front_asset/call-now.gif" alt="Call 7colors" title="7colors">&nbsp;
-                <a class="topbar-phone" style="font-family: monospace; font-size: 20px; color: #f57224" class="topbar-link" href="tel:{{ $company->phone ?? '' }}">{{ $company->phone ?? '' }}</a>
+                <a class="topbar-phone" style="font-family: monospace; font-size: 20px; color: #ff0000" class="topbar-link" href="tel:{{ $company->phone ?? '' }}">{{ $company->phone ?? '' }}</a>
             </div>
             @foreach($menuItems as $item)
             <div class="topbar__item topbar__item--link d-none d-md-flex">

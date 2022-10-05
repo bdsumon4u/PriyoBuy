@@ -127,7 +127,7 @@
                                 </div>
                                 <div class="call-for-order">
                                     <img src="{{ asset('call-now-icon-20.jpg') }}" width="135" alt="Call For Order">
-                                    <div style="padding: 10px;margin-bottom: 10px;font-weight: bold;color: #f57224;">
+                                    <div style="padding: 10px;margin-bottom: 10px;font-weight: bold;color: #ff0000;">
                                         {!! implode('<br>', explode(' ', setting('call_for_order'))) !!}
                                     </div>
                                 </div>

@@ -84,25 +84,25 @@
         .product-card__addtocart,
         .product__addtocart {
             background-color: #fff !important;
-            border-color: #f57224 !important;
+            border-color: #ff0000 !important;
             color: #000 !important;
         }
         .product-card__ordernow,
         .product__ordernow {
-            background-color: #f57224 !important;
-            border-color: #f57224 !important;
+            background-color: #ff0000 !important;
+            border-color: #ff0000 !important;
             color: #fff !important;
         }
         .product-card__ordernow:hover,
         .product__ordernow:hover {
             background-color: #fff !important;
-            border-color: #f57224 !important;
+            border-color: #ff0000 !important;
             color: #000 !important;
         }
         .product-card__addtocart:hover,
         .product__addtocart:hover {
-            background-color: #f57224 !important;
-            border-color: #f57224 !important;
+            background-color: #ff0000 !important;
+            border-color: #ff0000 !important;
             color: #fff !important;
         }
         .aa-input-container {

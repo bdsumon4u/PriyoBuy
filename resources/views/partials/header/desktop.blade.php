@@ -40,7 +40,7 @@
     -webkit-box-align: center;
     align-items: center;
     justify-content: center;
-    background: #f57224;
+    background: #ff0000;
     color: rgb(255, 255, 255);
     height: 40px;
     width: 40px;

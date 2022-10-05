@@ -17,12 +17,12 @@
         border: 1px solid #d5d5d5;
     }
     .form-control:focus {
-        border-color: #f57224;
+        border-color: #ff0000;
         box-shadow: none;
     }
     .btn-primary {
-        border-color: #f57224;
-        background-color: #f57224;
+        border-color: #ff0000;
+        background-color: #ff0000;
     }
     .input-number .form-control:focus {
         box-shadow: none;

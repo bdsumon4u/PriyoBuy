@@ -325,7 +325,7 @@ h6 {
 .block-header__group--active:focus,
 .block-header__group--active:hover {
     cursor: default;
-    box-shadow: inset 0 0 0 2px #f57224;
+    box-shadow: inset 0 0 0 2px #ff0000;
 }
 .block-header__arrow,
 .block-header__arrows-list {
@@ -353,7 +353,7 @@ h6 {
 }
 .block-header__arrow:focus,
 .block-header__arrow:hover {
-    background: #f57224;
+    background: #ff0000;
     fill: #3d464d;
 }
 .block-header__arrow:active {
@@ -560,8 +560,8 @@ h6 {
 .btn-primary,
 .btn-primary.disabled,
 .btn-primary:disabled {
-    border-color: #f57224;
-    background: #f57224;
+    border-color: #ff0000;
+    background: #ff0000;
     color: #fff;
     fill: #fff;
 }
@@ -574,8 +574,8 @@ h6 {
 .btn-primary.btn-loading:not(:disabled):not(.disabled).active,
 .btn-primary.btn-loading:not(:disabled):not(.disabled):active {
     cursor: default;
-    border-color: #f57224;
-    background: #f57224;
+    border-color: #ff0000;
+    background: #ff0000;
 }
 .btn-secondary.focus,
 .btn-secondary:focus,
@@ -940,7 +940,7 @@ h6 {
     padding: 2px 5px 0;
     border-radius: 2px;
     line-height: 16px;
-    background: #f57224;
+    background: #ff0000;
     color: #3d464d;
     margin-left: 12px;
     margin-right: -4px;
@@ -1045,7 +1045,7 @@ select.form-control-lg:valid {
     transition: fill 0.15s, transform 0.15s, visibility 0s 0.15s;
 }
 .input-check__input:checked ~ .input-check__box {
-    background: #f57224;
+    background: #ff0000;
     box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.05);
 }
 .input-check__input:checked ~ .input-check__icon {
@@ -1234,7 +1234,7 @@ select.form-control-lg:valid {
     visibility: hidden;
 }
 .input-radio__input:checked ~ .input-radio__circle {
-    background: #f57224;
+    background: #ff0000;
     box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08);
 }
 .input-radio__input:checked ~ .input-radio__circle:after {
@@ -1374,7 +1374,7 @@ select.form-control-lg:valid {
 }
 .input-radio-label__list input:checked ~ span {
     cursor: default;
-    background: #f57224;
+    background: #ff0000;
     color: #3d464d;
     transition-duration: 0.08s, 0.08s;
 }
@@ -1422,8 +1422,8 @@ select.form-control-lg:valid {
 .layout-switcher__button--active,
 .layout-switcher__button--active:hover {
     cursor: default;
-    border-color: #f57224;
-    background: #f57224;
+    border-color: #ff0000;
+    background: #ff0000;
     fill: #3d464d;
     z-index: 1;
 }
@@ -1528,7 +1528,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 .noUi-connect {
     border-radius: 2px;
-    background: #f57224;
+    background: #ff0000;
 }
 .noUi-horizontal .noUi-handle {
     cursor: ew-resize;
@@ -1547,7 +1547,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     height: 6px;
     margin: 5px;
     border-radius: 3px;
-    background: #f57224;
+    background: #ff0000;
     transition: transform 0.2s;
 }
 .noUi-horizontal .noUi-handle:focus {
@@ -1608,7 +1608,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     margin: 0 3px;
 }
 .page-item.active .page-link {
-    background: #f57224;
+    background: #ff0000;
     color: #3d464d;
 }
 .page-item.disabled .page-link {
@@ -2082,7 +2082,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     color: #3d464d;
 }
 .product-card__new-price {
-    color: #f57224;
+    color: #ff0000;
     margin-right: 5px;
 }
 .product-card__old-price {
@@ -2151,7 +2151,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     margin-right: 4px;
 }
 .product-card__badge--sale {
-    background: #f57224;
+    background: #ff0000;
     color: #fff;
 }
 .product-card__badge--new {
@@ -2493,7 +2493,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     fill: currentColor;
 }
 .rating__star--active .rating__fill {
-    color: #f57224;
+    color: #ff0000;
 }
 .rating__star--active .rating__stroke {
     color: rgba(0, 0, 0, 0.08);
@@ -2604,8 +2604,8 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 .tags__list a:focus,
 .tags__list a:hover {
-    background: #f57224;
-    border: 1px solid #f57224;
+    background: #ff0000;
+    border: 1px solid #ff0000;
     color: #3d464d;
 }
 .tags--lg .tags__list {
@@ -3630,7 +3630,7 @@ html[dir="rtl"] .account-menu__user-avatar {
     height: 54px;
 }
 .mobile-header__panel {
-    background: #f57224;
+    background: #ff0000;
     box-shadow: 0 1px rgba(0, 0, 0, 0.04), inset 0 -1px rgba(0, 0, 0, 0.04);
     color: #fff;
     position: relative;
@@ -4193,7 +4193,7 @@ html[dir="rtl"] .account-menu__user-avatar {
 }
 .nav-panel {
     height: 54px;
-    background: #f57224;
+    background: #ff0000;
     box-shadow: 0 1px rgba(0, 0, 0, 0.04), inset 0 -1px rgba(0, 0, 0, 0.04);
     color: #f7f7f7;
 }
@@ -4306,7 +4306,7 @@ html[dir="rtl"] .account-menu__user-avatar {
     fill: #bfbfbf;
 }
 .search__input:hover ~ .search__button:hover {
-    fill: #f57224;
+    fill: #ff0000;
 }
 .search__input:focus {
     outline: none;
@@ -4324,13 +4324,13 @@ html[dir="rtl"] .account-menu__user-avatar {
 }
 .search__input:focus ~ .search__border {
     background: transparent;
-    box-shadow: inset 0 0 0 2px #f57224;
+    box-shadow: inset 0 0 0 2px #ff0000;
 }
 .search__input:focus ~ .search__button {
     fill: #bfbfbf;
 }
 .search__input:focus ~ .search__button:hover {
-    fill: #f57224;
+    fill: #ff0000;
 }
 .search__button {
     border: none;
@@ -4352,7 +4352,7 @@ html[dir="rtl"] .account-menu__user-avatar {
 .search__button:focus,
 .search__button:hover {
     outline: none;
-    fill: #f57224;
+    fill: #ff0000;
 }
 .site-header {
     position: relative;
@@ -4779,7 +4779,7 @@ html[dir="rtl"] .account-menu__user-avatar {
     color: #ccc;
 }
 .teammates .owl-carousel button.owl-dot.active {
-    color: #f57224;
+    color: #ff0000;
 }
 .teammate__avatar img {
     max-width: 100%;
@@ -5866,7 +5866,7 @@ html[dir="rtl"] .account-menu__user-avatar {
     text-align: center;
 }
 .order-success__icon {
-    fill: #f57224;
+    fill: #ff0000;
     margin: 0 auto;
     display: block;
 }
@@ -6394,7 +6394,7 @@ html[dir="rtl"] .account-menu__user-avatar {
     border-radius: 2px;
 }
 .product-gallery__carousel-item--active {
-    box-shadow: inset 0 0 0 2px #f57224;
+    box-shadow: inset 0 0 0 2px #ff0000;
 }
 .product-tabs {
     margin-top: 50px;
@@ -6440,7 +6440,7 @@ html[dir="rtl"] .account-menu__user-avatar {
 .product-tabs__item--active,
 .product-tabs__item--active:hover {
     cursor: default;
-    border-bottom-color: #f57224;
+    border-bottom-color: #ff0000;
     background: transparent;
 }
 .product-tabs__content {
@@ -8176,7 +8176,7 @@ html[dir="rtl"] .account-menu__user-avatar {
     width: 48px;
     height: 48px;
     margin-right: 20px;
-    fill: #f57224;
+    fill: #ff0000;
 }
 .block-features__icon svg {
     display: block;
@@ -9492,7 +9492,7 @@ html[dir="rtl"]
     background: #d1d1d1;
 }
 .block-slideshow .owl-carousel .owl-dot.active {
-    background: #f57224;
+    background: #ff0000;
 }
 .block-slideshow .owl-carousel .owl-dot + .owl-dot {
     margin-left: 6px;
@@ -10078,7 +10078,7 @@ html[dir="rtl"]
 }
 .widget-search__input:focus {
     outline: none;
-    box-shadow: inset 0 0 0 2px #f57224;
+    box-shadow: inset 0 0 0 2px #ff0000;
 }
 .widget-search__input::-webkit-input-placeholder {
     color: #999;
@@ -10113,7 +10113,7 @@ html[dir="rtl"]
 }
 .widget-search__button:focus,
 .widget-search__button:hover {
-    fill: #f57224;
+    fill: #ff0000;
 }
 .widget-tags {
     border: 2px solid #f0f0f0;
